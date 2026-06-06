@@ -1,0 +1,21 @@
+# Frontend
+frontend/node_modules
+frontend/dist
+
+# Backend
+backend/venv
+backend/__pycache__
+backend/*.pyc
+
+# ML Models
+backend/model.pkl
+backend/vectorizer.pkl
+
+# Database
+backend/spam_detector.db
+
+# Environment
+.env
+
+# VS Code
+.vscode
